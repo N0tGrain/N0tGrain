@@ -14,8 +14,8 @@
   - 💻 Favorite Language: Java
   - 💪 Skills: Communication, Researching
   - 🚩 Languages: English, Dutch, Danish 🚩
-  - 🏒 Hobbies: Programming, Formula 1, Ice Hockey🏎️
-  - 🔧 Current Project: Minecraft Modding  🔧
+  - 🏒 Hobbies: Programming, Formula 1, Ice Hockey 🏎️
+  - 🔧 Current Project: Minecraft Modding 🔧
 
 <!---
 N0tGrain/N0tGrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
