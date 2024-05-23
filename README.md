@@ -4,12 +4,12 @@
 - ⚡ I am constantly trying to improve myself and learn new things!
 
 - 📫 Contact:
-  - Discord: n0t_grain
   - Email: N0tGrain@outlook.com
+  - Discord: n0t_grain
   - X: N0tBaguette
 - 👀Ferder info:
   - 👋 Pronouns: She/Her 👋
-  - 🕹️ Favorite Game: Minecraft, F1
+  - 🕹️ Favorite Game: Minecraft
   - 💻 Favorite Program: IntelliJ Idea
   - 💻 Favorite Language: Java
   - 💪 Skills: Communication, Researching
