@@ -13,7 +13,7 @@
   - 💻 Favorite Program: IntelliJ Idea
   - 💻 Favorite Language: Java
   - 💪 Skills: Communication, Researching
-  - 🚩 Languages: English, Dutch, Danish reading/writing 🚩
+  - 🚩 Languages: English, Dutch, Danish 🚩
   - 🏒 Hobbies: F1 and Ice Hockey🏎️
 
 <!---
