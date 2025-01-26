@@ -11,7 +11,7 @@
   - 👋 Pronouns: She/Her 👋
   - 🕹️ Favorite Game: Minecraft
   - 💻 Favorite Program: IntelliJ Idea
-  - 💻 Favorite Language: Java
+  - 💻 Favorite Language: HTML, CSS, JS
   - 💪 Skills: Communication, Researching
   - 🚩 Languages: English, Dutch, Danish 🚩
   - 🏒 Hobbies: Programming, Formula 1, Ice Hockey 🏎️
