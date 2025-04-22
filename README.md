@@ -1,3 +1,5 @@
+<img src="https://postimg.cc/941Jq0Gc" alt="Website home-page banner">
+
 # 💫 About Me:
 🌱 I am N0tGrain, a tech nerd from the Netherlands <br> 🌱 I'm currently studying Computer Science at Hogeschool Leiden <br> 👀 I'm a gamer and programmer, who loves to learn and improve skills <br> ⚡ I am constantly trying to improve myself and learn new things!
 
