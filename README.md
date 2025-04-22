@@ -1,4 +1,4 @@
-<img width="100%" height="100%" align="center" src='https://i.postimg.cc/4dRMqhyH/Screenshot-2025-04-19-144339.png' border='0' alt='Screenshot-2025-04-19-144339'/>
+<img src='https://i.postimg.cc/bJdDXd58/Screenshot-2025-04-19-144339.png' border='0' alt='Screenshot-2025-04-19-144339'/>
 # 💫 About Me:
 🌱 I am N0tGrain, a tech nerd from the Netherlands <br> 🌱 I'm currently studying Computer Science at Hogeschool Leiden <br> 👀 I'm a gamer and programmer, who loves to learn and improve skills <br> ⚡ I am constantly trying to improve myself and learn new things!
 
