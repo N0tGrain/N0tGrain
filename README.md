@@ -1,5 +1,4 @@
-<img src="https://postimg.cc/941Jq0Gc" alt="Website home-page banner">
-
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/4dRMqhyH/Screenshot-2025-04-19-144339.png' border='0' alt='Screenshot-2025-04-19-144339'/></a>
 # 💫 About Me:
 🌱 I am N0tGrain, a tech nerd from the Netherlands <br> 🌱 I'm currently studying Computer Science at Hogeschool Leiden <br> 👀 I'm a gamer and programmer, who loves to learn and improve skills <br> ⚡ I am constantly trying to improve myself and learn new things!
 
