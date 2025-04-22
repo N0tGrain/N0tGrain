@@ -1,7 +1,7 @@
 <img src='https://i.postimg.cc/hv1JFwnW/Screenshot-2025-04-22-153233.png' border='0' alt='Screenshot-2025-04-22-153233'/>
 
 # 💫 About Me:
-🌱 I am N0tGrain, a tech nerd from the Netherlands <br> 🌱 I'm currently studying Computer Science at Hogeschool Leiden <br> 👀 I'm a gamer and programmer, who loves to learn and improve skills <br> ⚡ I am constantly trying to improve myself and learn new things!
+🌱 I am N0tGrain, a tech nerd from the Netherlands <br> 🌱 Currently a Computer Science student at Hogeschool Leiden (University of Applied Sciences, Leiden) <br> 👀 I'm a gamer and programmer, who loves to learn and improve skills <br> ⚡ I am constantly trying to improve myself and learn new things!
 
 # 👀 Ferder info
 👋 Pronouns: She/Her 👋 <br> 🕹️ Favorite Game: Minecraft <br> 💻 Favorite IDE: IntelliJ Idea <br> 💻 Favorite Project: Fullstack spacestation reservation application (See banner) <br> 💪 Skills: Communication, Researching <br> 🚩 Languages: English, Dutch, Danish 🚩 <br> 🏒 Hobbies: Programming, Ice Hockey <br> 🔧 Current Project: Minecraft Modding 🔧 <br>
