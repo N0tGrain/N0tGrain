@@ -1,6 +1,6 @@
 <img src='https://i.postimg.cc/hv1JFwnW/Screenshot-2025-04-22-153233.png' border='0' alt='Screenshot-2025-04-22-153233'/>
 
-# <p style="text-align:center">Kaylee Hoogwerf</p><br>
+# Kaylee Hoogwerf
 <p style="text-align:center">Software Engineering student at <a href="https://www.hsleiden.nl/">Hogeschool Leiden (University of Applied Sciences, Leiden)</a>
 </p>
 
