@@ -1,6 +1,11 @@
 <img src='https://i.postimg.cc/hv1JFwnW/Screenshot-2025-04-22-153233.png' border='0' alt='Screenshot-2025-04-22-153233'/>
 
-# 💫 About Me:
+Software Engineering student at <a href="https://www.hsleiden.nl/">Hogeschool Leiden (University of Applied Sciences, Leiden)</a>
+
+# 💫 About Me
+I am Kaylee Hoogwerf, a big tech nerd from the Netherlands! Ever since I found out about programming, I couldn't think of something else I ever wanted to do for the rest of my life.
+I am currently in my first year of my 4 year Computer Science study, where so far I have learned not only programming skills in languages such as Python, HTML, CSS, Javascript and Java, learned to work with databases and frameworks such as Springboot and Angular. I have a good eye for detail, and put a lot of effort into bringing the best possible quality product to the client! During this time I have build multiple cool projects, such as a reservation system for spaceships on our own custom spaceship, of which the frontend is seeable in the banner of this page, and my own fullstack webshop, hosted on our school's server. During these projects I have designed and developed software and applications both independently and as part of a dev-team. Here I have also worked with multiple role, such as SCRUM, front-end developer and backend-developer.
+
 🌱 I am N0tGrain, a tech nerd from the Netherlands <br> 🌱 Currently a Computer Science student at Hogeschool Leiden (University of Applied Sciences, Leiden) <br> 👀 I'm a gamer and programmer, who loves to learn and improve skills <br> ⚡ I am constantly trying to improve myself and learn new things!
 
 # 👀 More info
