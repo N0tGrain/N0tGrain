@@ -1,6 +1,8 @@
 <img src='https://i.postimg.cc/hv1JFwnW/Screenshot-2025-04-22-153233.png' border='0' alt='Screenshot-2025-04-22-153233'/>
-# 👋 Kaylee Hoogwerf
-Software Engineering student at <a href="https://www.hsleiden.nl/">Hogeschool Leiden (University of Applied Sciences, Leiden)</a>
+
+<p style="text-align:center"><b>Kaylee Hoogwerf</b></p><br>
+<p style="text-align:center">Software Engineering student at <a href="https://www.hsleiden.nl/">Hogeschool Leiden (University of Applied Sciences, Leiden)</a>
+</p>
 
 # 💫 About Me
 I am Kaylee Hoogwerf, a big tech nerd from the Netherlands! Ever since I found out about programming, I couldn't think of something else I ever wanted to do for the rest of my life.
