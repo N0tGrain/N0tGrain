@@ -25,7 +25,7 @@ const kaylee = {
   languages: [English, Dutch, Danish],
   hobbies: [Programming, Gaming, Ice Hockey],
   current-project: "Icehockey data application🏒"
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on java"
 }
 ```
 
