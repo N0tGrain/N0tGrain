@@ -1,7 +1,7 @@
 <img src='https://i.postimg.cc/hv1JFwnW/Screenshot-2025-04-22-153233.png' border='0' alt='Screenshot-2025-04-22-153233'/>
 
 # Kaylee Hoogwerf
-<p style="text-align:center">Software Engineering student at <a href="https://www.hsleiden.nl/">Hogeschool Leiden (University of Applied Sciences, Leiden)</a>
+<p style="text-align:center">Software Engineering student at <a href="https://www.hsleiden.nl/en">Hogeschool Leiden (University of Applied Sciences, Leiden)</a>
 </p>
 
 # 💫 About Me
